@@ -124,5 +124,5 @@ Then distribute number from `47 to 24`.
 
 {==
 Notes:
-You can achieve butter implementation by optimizing the fib function also [See this fib algrithms](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/).
+You can achieve better implementation by optimizing the fib function also [See this fib algrithms](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/).
 ==}

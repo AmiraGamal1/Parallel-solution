@@ -1,9 +1,0 @@
-/* Style for the top half of the table */
-table tr:nth-child(-n+7) {
-    background-color: #f0f0f0; /* Color for the top half */
-}
-
-/* Style for the bottom half of the table */
-table tr:nth-child(n+8) {
-    background-color: #e0e0e0; /* Color for the bottom half */
-}
