@@ -1,8 +1,8 @@
 site_name: Exercise solutions
 theme:
+  name: material
   favicon: image/fmsi.png
   logo: image/fmsi.png
-  name: material
   features:
     - navigation.toc
     - navigation.tabs
@@ -23,13 +23,14 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: blue grey
-      accent: purple 
-    - scheme: slate 
+      accent: purple
+    - scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: blue grey
       accent: lime
+
 nav:
   - Lab2 Solution: index.md
   - Lab3 Solution: about.md
@@ -58,14 +59,13 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.mark
-  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/AmiraGamal1"  target="_blank" rel="noopener">Amira Nasreldeein</a>
+  &copy; 2024 <a href="https://github.com/AmiraGamal1" target="_blank" rel="noopener">Amira Nasreldeein</a>
