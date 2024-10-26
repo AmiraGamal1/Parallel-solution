@@ -125,8 +125,3 @@ Then distribute number from `47 to 24`.
 {==
 Notes:
 You can achieve better implementation by optimizing the fib function also [See this fib algrithms](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/).
-<<<<<<< HEAD
-==}
-=======
-==}
->>>>>>> d7199650143a4fe4eb0961ef3ceceb8256dd5959
